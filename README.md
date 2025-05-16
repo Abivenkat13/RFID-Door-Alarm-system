@@ -9,6 +9,14 @@
   ![Security](https://img.shields.io/badge/Security-FF5733?style=for-the-badge)
 </div>
 
+## 🔧 Circuit Diagram
+
+<div align="center">
+  <img src="circuit-diagram.jpg" width="600" alt="Circuit Diagram" />
+</div>
+
+> ⚠️ *Make sure the image file is named `circuit-diagram.jpg` and is located in the same folder as the README.*
+
 ## 🌟 Project Overview
 
 <img align="right" width="300" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=4EADF7&center=true&vCenter=true&multiline=true&width=300&height=100&lines=Scan+Card;Authenticate;Access+Granted" alt="Project Workflow" />
