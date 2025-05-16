@@ -9,13 +9,7 @@
   ![Security](https://img.shields.io/badge/Security-FF5733?style=for-the-badge)
 </div>
 
-## 🔧 Circuit Diagram
 
-<div align="center">
-  <img src="circuit-diagram.jpg" width="600" alt="Circuit Diagram" />
-</div>
-
-> ⚠️ *Make sure the image file is named `circuit-diagram.jpg` and is located in the same folder as the README.*
 
 ## 🌟 Project Overview
 
