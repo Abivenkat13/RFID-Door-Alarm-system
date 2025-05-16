@@ -83,21 +83,17 @@ Perfect for homes, offices, labs, or any space requiring controlled access, this
 
 ## 🛠️ Setup & Installation
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4E94F7&center=true&vCenter=true&width=600&lines=Easy+Setup+in+3+Simple+Steps" alt="Setup Steps" />
-</div>
-
-### 1️⃣ Hardware Assembly
+### Hardware Assembly
 Connect the RFID reader, LCD display, and buzzer to the Arduino according to standard pin configurations. The system uses SPI communication for the RFID reader and I2C for the LCD display.
 
-### 2️⃣ Software Installation
+### Software Installation
 Install the required libraries in Arduino IDE:
 - SPI Library (built-in)
 - MFRC522 Library 
 - Wire Library (built-in)
 - LiquidCrystal_I2C Library
 
-### 3️⃣ Configuration
+### Configuration
 Upload the provided code and configure the valid RFID card UIDs by replacing the example values with your own card IDs:
 
 ```cpp
@@ -107,10 +103,6 @@ byte validUID2[4] = {0x53, 0x6A, 0xB1, 0x2C};
 ```
 
 ## 🔄 How It Works
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=6000&pause=1000&color=4EADF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=1.+Scan+Card+→+2.+Verify+UID+→+3.+Grant/Deny+Access;Simple+and+Effective+Security" alt="How It Works" />
-</div>
 
 The system operates in a simple yet effective workflow:
 
@@ -190,9 +182,7 @@ The system operates in a simple yet effective workflow:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4E94F7&center=true&vCenter=true&width=600&lines=Secure+Your+Space+with+Smart+Technology" alt="Closing" />
-  
-  <p>Designed & Developed with ❤️ by V Abishek</p>
+  <p>Designed & Developed by V Abishek</p>
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abivenkat13)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vabishek13)
