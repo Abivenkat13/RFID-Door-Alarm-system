@@ -1,0 +1,25 @@
+✅ Hardware Requirements
+Arduino Uno or Nano – 1
+
+MFRC522 RFID Reader Module – 1
+
+RFID Tags or Cards – At least 2 (with known UIDs)
+
+I2C 16x2 LCD Display – 1
+
+Buzzer – 1
+
+Jumper Wires – ~10
+
+Breadboard (optional) – 1
+
+USB Cable or Power Supply – 1
+
+💻 Software Requirements
+Arduino IDE
+Download: https://www.arduino.cc/en/software
+
+Required Libraries (Install via Library Manager in Arduino IDE):
+
+1.MFRC522
+2.LiquidCrystal_I2C
